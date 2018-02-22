@@ -33,6 +33,8 @@ The part of plot involving Faceless Man from 《Spirit Away》 is basically an i
 - Supermarket
 	- Dialogue:
 
+<img>
+
 
 #### Commentary System
 
