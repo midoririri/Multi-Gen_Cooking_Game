@@ -18,10 +18,25 @@ The part of plot involving Faceless Man from 《Spirit Away》 is basically an i
 
 #### Game Scenes & Dialogues
 
-- Start Scene
-- Main Town
+- Start Scene (analogous to Alice Wonderland)
+	- Dialogue:
+
+
+- Main Town (**bathhouse** 汤屋?)
+	- Dialogue:
+
+
 - Town of Sweet Desserts
+	- Dialogue: 
+
+
 - Supermarket
+	- Dialogue:
+
+
+#### Commentary System
+
+to be decided...
 
 
 #### Game Graphics
@@ -29,3 +44,4 @@ The part of plot involving Faceless Man from 《Spirit Away》 is basically an i
 Sprites:
 
 - Faceless Man: 9 visions sprites
+- Chihiro Ogino (千寻)： 9 vision sprites?
