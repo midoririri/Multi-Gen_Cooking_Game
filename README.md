@@ -1,4 +1,4 @@
-# Multi-Gen_Cooking_Game
+# Cooking Game General Introduction
 
 here will be several lines of bullshittnig indicating the purpose of developing the game, coming soon...
 
@@ -16,8 +16,16 @@ The part of plot involving Faceless Man from 《Spirit Away》 is basically an i
 - unlocking more recipes creations
 - leveling up to explore new plots of adventures
 
-#### Game Scenes
+#### Game Scenes & Dialogues
+
+- Start Scene
+- Main Town
+- Town of Sweet Desserts
+- Supermarket
 
 
+#### Game Graphics
 
+Sprites:
 
+- Faceless Man: 9 visions sprites
