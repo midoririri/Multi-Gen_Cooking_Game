@@ -1,6 +1,8 @@
 # Cooking Game General Introduction
 
+<span style="color: green">
 here will be several lines of bullshittnig indicating the purpose of developing the game, coming soon...
+</span>
 
 ## Plot 1: Faceless Man from 《Spirited Away》
 
@@ -39,8 +41,9 @@ The part of plot involving Faceless Man from 《Spirited Away》 is basically an
 
 ### Commentary System
 
+<span style="color: green">
 to be decided...
-
+</span>
 
 ### Game Graphics
 
