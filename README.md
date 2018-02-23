@@ -47,4 +47,4 @@ to be decided...
 Sprites:
 
 - Faceless Man: 9 visions sprites
-- Chihiro Ogino (千寻)： 9 vision sprites?
+- Chihiro Ogino (千寻): 9 vision sprites?
